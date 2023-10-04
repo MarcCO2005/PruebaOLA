@@ -1,2 +1,1 @@
 Marc Cuenca Olmos
-nosekmpasa
